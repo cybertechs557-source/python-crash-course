@@ -1,8 +1,8 @@
-# Author: Bojan G. Kalicanin
-# Date: 28-Sep-2016
+# Author: Christopher Molina
+# Date: 25-06-2026
 # Copying a list
 
-my_foods = ['pizza', 'falafel', 'carrot cake']
+my_foods = ['burger', 'pasta', 'cheesecake']
 friend_foods = my_foods[:]
 
 print("My favorite foods are:")
